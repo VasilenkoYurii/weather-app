@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: antiquewhite;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    339deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgb(253, 243, 187)
+  );
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
